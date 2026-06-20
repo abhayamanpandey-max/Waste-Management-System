@@ -27,3 +27,5 @@ A machine learning-powered web application designed to automate and optimize was
 ├── .gitignore                         # Excludes heavy ML models and virtual environments
 ├── README.md                          # Project documentation
 └── requirements.txt                   # Project dependencies
+
+---
